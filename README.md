@@ -2,6 +2,7 @@ El proyecto consiste
 en una aplicación web de comercio electrónico desarrollada en Node.js usando Express y MongoDB como base de datos. La aplicación, llamada «ART», se centra en la venta de cuadros en diferentes variedades y estilos.
 
 la aplicacion web cuenta con una variedad de productos de diferentes estilos de acuerdo al requerimiento de cada usuario se maneja para diferentes generaciones.
+clonar el repositorio:https://github.com/ANGIEFOREROG/Proyecto_final_ART.git
 1 ingresar a inicio 
 1 ingresar a Mi usuario
 2 si no eres usuario registrado te debes registrar 
