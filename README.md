@@ -24,9 +24,9 @@ te indica si quieres serguir comprando o si quieres terminarr la compra.
 9 cuando se termina la compra, dar cli en terminar compra y te genera un ticket donde te registra el nombre de usuario, email, fecha y hora , lista de los productos que compraste con las siguientes caracteristicas nombre, precio, cantidad, subtotal
 10 le das cli en terminar compra, te muestra un mensaje de gracias por tu compra  y te notifica al correo el detalle de la compra.
 para salir de la sesion lo puedes realiza por el boton de Lgout.
-Installation
+Installation:
 Clone the repository:
-git clone https:
+git clone https://github.com/ANGIEFOREROG/Proyecto_final_ART.git    el proyecto final se encuentra en la siguiente ruta.
 Install dependencies:
 cd ART-Node-Project
 npm install
